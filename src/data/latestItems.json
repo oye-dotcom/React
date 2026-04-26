@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "title": "Roundtable on Empowering Elected Representatives and Citizens",
+    "category": "whitepapers",
+    "image": "https://placehold.co/400x250/0B4C8C/ffffff?text=Whitepaper",
+    "date": "April 2025",
+    "readTime": "8 min read",
+    "description": "A comprehensive roundtable discussion on how elected representatives and citizens can be empowered through digital governance tools and open-source platforms.",
+    "tags": ["governance", "citizens", "policy"]
+  },
+  {
+    "id": 2,
+    "title": "The Solver Network | A Policy Vision for Collaborative Public Problem-Solving",
+    "category": "whitepapers",
+    "image": "https://placehold.co/400x250/1A6BB5/ffffff?text=Policy+Vision",
+    "date": "March 2025",
+    "readTime": "10 min read",
+    "description": "This paper presents a policy vision for building a collaborative solver network to address public sector challenges at scale.",
+    "tags": ["policy", "collaboration", "public-sector"]
+  },
+  {
+    "id": 3,
+    "title": "State-led Urban Digital Transformation",
+    "category": "whitepapers",
+    "image": "https://placehold.co/400x250/0B4C8C/ffffff?text=Urban+Digital",
+    "date": "February 2025",
+    "readTime": "7 min read",
+    "description": "Exploring how state governments can lead urban digital transformation using open digital infrastructure and data-driven governance.",
+    "tags": ["urban", "transformation", "state"]
+  },
+  {
+    "id": 4,
+    "title": "From Goa to the Globe: How Pravimal Abhishek led the GIDC to digitally transform industrial governance",
+    "category": "articles",
+    "image": "https://placehold.co/400x250/F47B20/ffffff?text=Goa+Article",
+    "date": "April 2025",
+    "readTime": "6 min read",
+    "description": "A story of digital transformation in Goa's industrial governance sector and how it became a model for other states.",
+    "tags": ["goa", "industrial", "governance"]
+  },
+  {
+    "id": 5,
+    "title": "Tech for Billions, Talent for None: Fixing GovTech's Biggest Gap",
+    "category": "articles",
+    "image": "https://placehold.co/400x250/E8610D/ffffff?text=GovTech+Gap",
+    "date": "March 2025",
+    "readTime": "5 min read",
+    "description": "An analysis of the talent gap in government technology and how to bridge it to ensure equitable digital service delivery for all citizens.",
+    "tags": ["govtech", "talent", "digital"]
+  },
+  {
+    "id": 6,
+    "title": "From Systems to Ecosystems: A Shared Journey to Build Digital Public Goods",
+    "category": "articles",
+    "image": "https://placehold.co/400x250/0B4C8C/ffffff?text=Digital+Goods",
+    "date": "February 2025",
+    "readTime": "9 min read",
+    "description": "How eGov transitioned from building isolated systems to fostering rich digital ecosystems that deliver public value at scale.",
+    "tags": ["ecosystem", "digital-public-goods", "technology"]
+  },
+  {
+    "id": 7,
+    "title": "Enabling Social Benefit Delivery through Digital Public Infrastructure",
+    "category": "case-studies",
+    "image": "https://placehold.co/400x250/2E7D32/ffffff?text=Case+Study",
+    "date": "April 2025",
+    "readTime": "12 min read",
+    "description": "A case study on how digital public infrastructure enabled seamless delivery of social benefits to over 4000+ beneficiaries across states.",
+    "tags": ["social-benefit", "DPI", "case-study"]
+  },
+  {
+    "id": 8,
+    "title": "Accelerating Revenue Mobilisation through Digital Public Infrastructure (DPI)",
+    "category": "case-studies",
+    "image": "https://placehold.co/400x250/1B5E20/ffffff?text=Revenue+DPI",
+    "date": "March 2025",
+    "readTime": "11 min read",
+    "description": "How DPI helped state governments achieve 250% growth in revenue mobilization through digital tax and billing systems.",
+    "tags": ["revenue", "DPI", "finance"]
+  },
+  {
+    "id": 9,
+    "title": "National Urban Innovation Stack – Strategy & Approach",
+    "category": "strategy-papers",
+    "image": "https://placehold.co/400x250/4A148C/ffffff?text=NUIS",
+    "date": "April 2025",
+    "readTime": "15 min read",
+    "description": "A detailed strategy note on the National Urban Innovation Stack and its approach to transforming urban service delivery in India.",
+    "tags": ["urban", "innovation", "strategy"]
+  },
+  {
+    "id": 10,
+    "title": "Reimagining Sanitation Services with Digital Public Infrastructure",
+    "category": "strategy-papers",
+    "image": "https://placehold.co/400x250/6A1B9A/ffffff?text=Sanitation",
+    "date": "February 2025",
+    "readTime": "10 min read",
+    "description": "A strategy note on how digital public infrastructure can reimagine and improve sanitation service delivery across urban and rural India.",
+    "tags": ["sanitation", "DPI", "infrastructure"]
+  },
+  {
+    "id": 11,
+    "title": "Karnataka's Centre for Smart Governance and eGov Foundation Announce Strategic Partnership",
+    "category": "news-media",
+    "image": "https://placehold.co/400x250/B71C1C/ffffff?text=Karnataka+News",
+    "date": "April 2025",
+    "readTime": "4 min read",
+    "description": "Karnataka's Centre for Smart Governance partners with eGov Foundation to transform public service delivery across the state.",
+    "tags": ["karnataka", "partnership", "news"]
+  },
+  {
+    "id": 12,
+    "title": "AI for Sustainable Cities: AIRAWAT and eGov Foundation Launch Strategic Partnership",
+    "category": "news-media",
+    "image": "https://placehold.co/400x250/C62828/ffffff?text=AI+Cities",
+    "date": "March 2025",
+    "readTime": "5 min read",
+    "description": "AIRAWAT and eGov Foundation launch a strategic partnership to leverage AI for sustainable urban governance.",
+    "tags": ["AI", "cities", "sustainability"]
+  },
+  {
+    "id": 13,
+    "title": "eGov DIGIT Platform: 2023 Annual Impact Report",
+    "category": "whats-new",
+    "image": "https://placehold.co/400x250/0D47A1/ffffff?text=Annual+Report",
+    "date": "April 2025",
+    "readTime": "6 min read",
+    "description": "The 2023 Annual Impact Report showcasing the reach and impact of the DIGIT platform across India and globally.",
+    "tags": ["DIGIT", "impact", "annual-report"]
+  },
+  {
+    "id": 14,
+    "title": "Government of Punjab and eGov Foundation Sign MoU to Drive Urban Innovation",
+    "category": "whats-new",
+    "image": "https://placehold.co/400x250/283593/ffffff?text=Punjab+MoU",
+    "date": "March 2025",
+    "readTime": "4 min read",
+    "description": "Punjab and eGov Foundation sign a historic MoU to drive urban innovation across technology, policy and revenue systems.",
+    "tags": ["punjab", "MoU", "innovation"]
+  },
+  {
+    "id": 15,
+    "title": "A Digital Approach for Sustainable Rural Water Systems",
+    "category": "whitepapers",
+    "image": "https://placehold.co/400x250/006064/ffffff?text=Water+Systems",
+    "date": "January 2025",
+    "readTime": "8 min read",
+    "description": "How digital tools and IoT integration are enabling sustainable management of rural water supply systems across India.",
+    "tags": ["water", "rural", "sustainability"]
+  },
+  {
+    "id": 16,
+    "title": "mGramSeva: A Digital Lifeline for Rural Revenue Collectors",
+    "category": "articles",
+    "image": "https://placehold.co/400x250/E65100/ffffff?text=mGramSeva",
+    "date": "January 2025",
+    "readTime": "7 min read",
+    "description": "How mGramSeva became a beam of comfort for rural revenue collectors, digitizing the collection of water tariffs across 5000+ villages.",
+    "tags": ["mGramSeva", "rural", "water"]
+  }
+]
