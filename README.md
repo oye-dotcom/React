@@ -1,16 +1,22 @@
-# React + Vite
+**Instruction to run react application locally
+1. Clone the Repository
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+git clone  https://github.com/oye-dotcom/React
 
-Currently, two official plugins are available:
+2. Install Dependencies
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Using npm:
 
-## React Compiler
+npm install
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+3. Start the Development Server
 
-## Expanding the ESLint configuration
+Using npm:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+npm start
+
+4.  Access the Application
+
+Once the server starts, open your browser and go to:
+
+http://localhost:3000
